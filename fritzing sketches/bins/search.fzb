@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="potentio">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT_SWITCH-POT_PTH_SWITCH" modelIndex="10201" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot_switch-pot_pth_switch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7acdd26ccb2e7e05c0ayxcva975c0afdsaPotentiometerModuleID" modelIndex="10203" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/SMD_AD5206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT--2" modelIndex="10205" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot--2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT-100K_3362U" modelIndex="10207" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot-100k_3362u.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT-MAM" modelIndex="10209" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot-mam.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT--PTH-KNOB" modelIndex="10211" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot--pth-knob.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="10213" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/DRV8825_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ab15a34dfcf83e23a26e83fe8a5a4dac_2" modelIndex="10215" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/Textile Potentiometer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ds1809_ic_dip" modelIndex="10216" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/ds2809_ic.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT-" modelIndex="10217" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-MCP42XXX-" modelIndex="10219" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-analogic-mcp42xxx-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="10221" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3b1a8578c21940dfe27253a7b57c81f5PotentiometerModuleID" modelIndex="10223" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/pot-slider.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT-SMD" modelIndex="10224" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4244TPM6MMPotentiometerModuleID" modelIndex="10226" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/pot_trimmer_6mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pololu0002_a988" modelIndex="10227" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/pololu0002_a988.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DFDC00PotentiometerModuleID" modelIndex="10229" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/pot_big.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-MCP41XXX-" modelIndex="10230" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-analogic-mcp41xxx-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="alps-starter-pot9mm" modelIndex="10232" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/alps-starter-pot9mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT-PTH" modelIndex="10233" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT-TRIM" modelIndex="10235" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot-trim.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT--RV16AF-20" modelIndex="10237" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot--rv16af-20.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DBDC00PotentiometerModuleID" modelIndex="10239" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/pot_trimmer_12mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-POT_SWITCH-POT_PTH" modelIndex="10240" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-pot_switch-pot_pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI_Shield-v13" modelIndex="10242" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/MIDI_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="297c7ab01279c7b7f5c4ca77ec94554c" modelIndex="10244" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/Dial Potentiometer with switch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SLIDER-" modelIndex="10245" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-slider-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-X9015_DIGI_POT-S" modelIndex="10247" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-analogic-x9015_digi_pot-s.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT-TRIMPOT-5MM" modelIndex="10249" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot-trimpot-5mm.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7acdd26c5e6355cb2e7e05c0aa975c0PotentiometerModuleID" modelIndex="10251" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/AD5206 Digital Potentiometer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT-TRIMPOT_PTH_S3_LOCK" modelIndex="10252" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot-trimpot_pth_s3_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT-3MM-2" modelIndex="10254" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot-3mm-2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="10256" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-TRIMPOT-3362U-2" modelIndex="10257" path="D:/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-trimpot-3362u-2.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
